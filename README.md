@@ -2,8 +2,6 @@
 
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/roqueando/askyourdoc)
 
-## Architecture Diagram
-![ayd_architecture](docs/ayd_architecture.png)
 
 
 > Ask Your Doc! is a portfolio project for my machine learning engineer career, that consists in just upload a document with a bunch of questions and return the answers by a DQA pre-trained model.
@@ -41,3 +39,6 @@ This project is like a bunch of workers sending and consuming data from queues a
 ```sh
 docker-compose up -d
 ```
+
+## Architecture Diagram
+![ayd_architecture](docs/ayd_architecture.png)
